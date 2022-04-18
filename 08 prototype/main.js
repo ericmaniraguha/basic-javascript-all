@@ -24,6 +24,6 @@ var x = new personInfo(
   'Database administrator'
 );
 
-console.log(x.getName);
+console.log(x.getName());
 
-// console.log(val);
+console.log(val);
